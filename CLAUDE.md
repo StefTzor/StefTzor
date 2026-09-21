@@ -11,9 +11,10 @@ backend), `portfolio-skill` (the knowledge base).
 **The `portfolio` skill** (`/portfolio`) — the canonical knowledge base for this project. It is
 user-level, so it loads here as well. The two that matter for this repo:
 
-- `references/job-search.md` — **canonical for the wording.** §2 is the headline, §3 the About.
-  Never write identity copy from `persona-and-voice.md`'s July capture; it is superseded.
 - `references/identity-images.md` — how `banner.png` is made and why it is not drawn by hand.
+
+The skill knows which of its own files is canonical for wording. Ask it rather than restating it
+here: this repo is public.
 
 ## Do not hand-edit these two files
 
@@ -39,8 +40,7 @@ inside a URL or a PNG cannot be checked. It lives in `_data/identity.js` now, an
    repo and this is the most-read page of the four.
 2. **Never `git add -A`.** Stage by path, read `git diff --cached --stat`.
 3. **No Claude attribution** in commit messages.
-4. **No availability signals.** No "open to work", no "hire me", and `hireable` stays unchecked in
-   the profile settings. The owner is employed and this is visible to his employer. The skill's
-   `job-search.md` §3 has the reasoning, and the surface checker asserts the flag stays off.
+4. **No availability signals.** No "open to work", no "hire me", and `hireable` stays unchecked
+   in the profile settings. `checks/surfaces.mjs` asserts the flag stays off.
 5. **After changing anything here**, run the checker:
    `node ~/.claude/skills/portfolio/checks/surfaces.mjs`
