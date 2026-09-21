@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=280&section=header&text=Stefanos%20Tzortzoglou&fontSize=50&fontColor=10B981&animation=fadeIn&fontAlignY=35&desc=Technical%20CSM%20%7C%20Implementation%20Lead%20%7C%20Data%20Strategy&descAlignY=55&descAlign=50" width="100%" />
+  <img src="banner.png" alt="Stefanos Tzortzoglou — Technical CSM. SQL, REST APIs, CDP and CRM/ERP integrations." width="100%" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stzortzoglou/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="mailto:s.tzortzoglou@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <a href="mailto:stefanos@tzortzoglou.eu">
+    <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
-  <a href="https://steftzor.github.io/code/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=Firefox&logoColor=white" />
+  <a href="https://tzortzoglou.eu" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=Firefox&logoColor=10B981" />
   </a>
 </div>
 
 <br />
 
-### 👋 Bridging Commercial Strategy & Technical Reality
+### 👋 I build the enterprise integrations most CSMs escalate
 
-I am a **Technical Customer Success Manager** who sits at the intersection of revenue and code. I don't just manage accounts; I resolve the complex technical blockers that prevent renewals and stall implementations.
+I am a **Technical Customer Success Manager** who sits at the intersection of revenue and code. When an onboarding stalls on an API nobody documented or a data model that will not map, I am the one who takes it apart.
 
-I take a highly logical, gimmick-free approach to problem-solving. Whether I am troubleshooting **API integrations** via Swagger/Insomnia, executing **Data Mapping** across CRM/ERP systems, or deploying B2B Solutions, my focus is on secure, scalable architecture that protects revenue without requiring constant Engineering escalations.
+Most of my work is enterprise onboarding onto a **Customer Data Platform**: getting a client's ticketing, e-commerce and CRM data to agree on what a customer is. I set the scope and the milestone plan at kickoff, track the dependencies that decide whether the date holds, and configure the integrations myself rather than filing them as engineering work.
 
-- 🔭 **Currently Executing:** Snowflake data pipelines (Streams, Tasks, Stored Procedures) and Terraform infrastructure.
-- 🐧 **Philosophy:** Pragmatist. Security-conscious. Strong advocate for **Linux** and **Open Source** tools.
-- ⚡ **Recent Build:** Engineered a custom portfolio site (11ty, Nunjucks, Tailwind) featuring Firebase authentication for gated content via secure GitHub Actions deployment.
+- 🧩 **What that looks like:** SQL against legacy client data, REST API integrations across ticketing, e-commerce, CRM and ERP, and the data mapping that makes a migration survive contact with production.
+- 🐧 **Philosophy:** pragmatist, security-conscious, and an advocate for **Linux** and open source. Transparency beats proprietary black boxes.
+- 🔨 **Recent build:** [tzortzoglou.eu](https://tzortzoglou.eu) and the signed-in app behind it. Three deployables, four data stores, five upstreams. Firebase auth, a Postgres-backed Express API, first-party privacy-first analytics, and automated deploys that verify the build actually arrived rather than that the request was accepted. The full architecture is written up at [app.tzortzoglou.eu/docs](https://app.tzortzoglou.eu/docs/).
 
 <br />
 
@@ -34,13 +34,13 @@ I take a highly logical, gimmick-free approach to problem-solving. Whether I am 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
 <br />
